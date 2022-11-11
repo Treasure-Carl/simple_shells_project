@@ -30,4 +30,4 @@ cd [dir]	Change the directory.
 help [built-in]	Read documentation for a built-in.
 
 
-code content here written by <h2>Treasure-Olayinka</h3> and <h2>Hosea-Favour</h2>
+&nbsp;code content here written by &nbsp;<h2>Treasure-Olayinka</h3> &nbsp; and &nbsp;<h2>Hosea-Favour</h2>&nbsp;
